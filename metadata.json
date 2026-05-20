@@ -1,6 +1,6 @@
 {
   "name": "Only You",
-  "description": "An interactive lyric player, personalized love note creator, and AI-powered romantic poetry builder.",
+  "description": "An interactive lyric player, personalized love note creator, and AI-powered romantic poetry builder in the frosted glass aesthetic.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
